@@ -20,7 +20,7 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Micricontroller Programming", "icon":"fas fa-microchip", "level": 90},
+        {"name": "Microntroller Programming", "icon":"fas fa-microchip", "level": 90},
         {"name": "PLC programming", "icon": "fas fa-project-diagram", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},

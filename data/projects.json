@@ -20,5 +20,11 @@
         "role": "Hardware Engineer",
         "description": "This smart irrigation system uses an Arduino Uno Robodyn with pH, DHT22, and DS18B20 sensors to monitor Granola G0 potato seedlings. Data is shown on a web interface, allowing remote and automatic watering based on plant needs.",
         "image": "images/kntg.jpg"
+    },
+    {
+        "title": "Design and Construction of a 3-Axis ASRS for Electronic Components in the Analog Laboratory of Politeknik Negeri Semarang",
+        "year": "2025",
+        "description": "ASRS Electronic Components is an automated storage and retrieval system that uses servos as its actuators. This device has 2 servos for the X and Y axis, and a stepper motor for the Z axis. The X axis moves left and right, the Y axis moves up and down, the Z axis moves forward and backward, and it uses a PLC as its controller.",
+        "image": "images/asrs.jpg" 
     }
 ]
