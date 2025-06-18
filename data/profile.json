@@ -7,11 +7,11 @@
     "socialMedia": [
         {
             "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/amiin-rizal128"
+            "url": "https://www.linkedin.com/in/m-ihya-ulumuddin-3ba349309/"
         },
         {
             "platform": "GitHub",
-            "url": "https://github.com/rizalhalim9"
+            "url": "https://ihyaulumuddin12.github.io/portfolio/"
         },
         {
             "platform": "Twitter",
@@ -20,12 +20,12 @@
     ],
     "cv": {
 			"text": "Download CV",
-			"file": "docs/cv.pdf",
+			"file": "docs/CV-M.Ihya' Ulumuddin.pdf",
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Mikrokontroller Programming", "icon":"fas fa-bolt", "level": 90},
+        {"name": "PLC programming", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
