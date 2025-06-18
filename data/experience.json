@@ -1,23 +1,23 @@
 [
     {
         "company": "PT Pacific Furniture",
-		"logo":"images/polines-logo-pacific.png",
+		"logo":"images/logo-pcfk.jpg",
         "position": "Maintenance Staff",
         "year": "2021 - 2022",
-        "description": "As a Lecturer in Electronic Engineering, I am actively involved in academic and administrative responsibilities, including leading the study program accreditation taskforce to ensure continuous quality improvement. In addition, I lead and manage several projects, contributing to both institutional development and practical engineering applications."
+        "description": "I was responsible for monitoring the temperature of electric motors driving fans or water pumps on each dust collector and spray booth unit using a thermogun, and shutting them down in case of overheating. I also conducted maintenance on these motors, including dust cleaning with compressor air, bearing lubrication, and replacing damaged bearings. Additionally, I handled lighting installation and repair across various areas such as production, finishing, the purchasing office, accounting, HRD, and the CEO's room. I repaired production tools like drills, grinders, sanders, and spray guns by replacing worn components, which significantly reduced company spending on new equipment. I successfully installed new lighting in the weaving building with 8 light points spaced 2.5 meters apart. My reliability led the maintenance division manager to entrust me with overseeing electric motors throughout the production and furniture finishing processes."    
     },
 	{
         "company": "PLN Indonesia Power Kamojang POMU",
 		"logo":"images/logo-pln.webp",
         "position": "Instrument & Control",
         "year": "2023",
-        "description": "As a Lecturer in Computer Engineering, I am involved in the end-to-end pedagogy process, including updating lesson plans based on Outcome-Based Education (OBE) and current issues, developing interactive and easy-to-understand lecture materials, and assessing student outcomes. I am actively engaged in research and community outreach, with several publications and intellectual property to my name. Appointed as the Research Coordinator in the Faculty of Engineering and Informatics under the Dean, I organize regular meetings (FTI Research Talk), coaching clinics for publication and grant writing, manage UMN journals, and collaborate with external parties to promote research. Additionally, I actively contribute to the promotion and marketing of UMN to prospective students, participate in curriculum development, and handle administrative tasks related to accreditation and quality improvement. I have also successfully led several projects funded by both internal and external sources."
+        "description": "As a student intern, I performed preventive maintenance on the compressor for the pneumatic system in the ventilation structure by draining water from the compressor tube, effectively reducing pneumatic inaccuracy by 10%. I also monitored the condition of each power plant unit and gained hands-on experience in Instrumentation and Control systems by learning directly from the Kamojang PLTP control room operator. Additionally, I presented my internship project titled Governor Valve Control System as Turbine Unit 2 Controller to my supervisor and achieved an average score of 92/100 in soft competencies and 91/100 in hard competencies."
     },
     {
         "company": "PT Astra Otopart Tbk Divisi WINTEQ",
 		"logo":"images/logo-wtq1.png",
         "position": "Electric & Robotic Application",
         "year": "2024-2025",
-        "description": "Control the quality of electronic part production for various printer models, analyze product defects, and provide recommendations to address issues or identify potential root causes."
+        "description": "As an industrial automation technician, I performed panel hardwiring activities such as cable scooning, cable addressing, and component layout on control panels. I also modified PLC and HMI programs based on customer requests using Mitsubishi PLC devices with GX-Works and GT-Designer software. I was actively involved in the entire process from machine assembly to commissioning across six different projects, including CNC Multifunction Polman Astra, GKD Streamline Conveyor, FIM Automation Line, Yamaha Treble Bridge Nailing Drilling Cutting, Pokayoke for Air Cleaner, and Nusametal Auto Handling Lathe Process. My competence led the electric and robotic coordinator to entrust me with providing customer training on machine operation, troubleshooting, and maintenance."
     }
 ]
